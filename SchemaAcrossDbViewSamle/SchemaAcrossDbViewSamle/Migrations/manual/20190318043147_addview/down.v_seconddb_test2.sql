@@ -1,0 +1,1 @@
+﻿drop view v_seconddb_test2

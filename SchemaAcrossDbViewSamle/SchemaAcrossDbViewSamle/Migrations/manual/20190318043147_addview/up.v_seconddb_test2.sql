@@ -1,0 +1,1 @@
+﻿create view v_seconddb_test2 as select Id, Name, Property1 from $SecondDb$.test2

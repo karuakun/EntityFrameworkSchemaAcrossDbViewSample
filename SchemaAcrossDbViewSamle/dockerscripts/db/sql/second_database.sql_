@@ -1,0 +1,12 @@
+use seconddb;
+
+create table test2 (
+    id varchar(100) primary key,
+    name varchar(500),
+    property1 varchar(100),
+    property2 varchar(100),
+    property3 varchar(100)
+)
+
+insert into test2 values ('test2-1', 'test2', 'prop1', 'prop2', 'prop3');
+
